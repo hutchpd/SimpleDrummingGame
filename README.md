@@ -1,6 +1,6 @@
-# Beat Master
+# SimpleDrummingGame
 
-Beat Master is an interactive rhythm game built with JavaScript and HTML5 Canvas. The game presents a sequence of musical beats on a track, which the player must hit at the correct time to earn points.
+SimpleDrummingGame is an interactive rhythm game built with JavaScript and HTML5 Canvas. The game presents a sequence of musical beats on a track, which the player must hit at the correct time to earn points.
 
 ## Getting Started
 
