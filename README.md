@@ -21,15 +21,11 @@ Beat Master is in active development and we plan to add the following features:
 
 1. New Instruments: We aim to incorporate different drum beats such as snares, bass drums, and cymbals to enrich the game's musical texture.
 
-2. User Profiles: To allow players to track their progress and high scores, we plan to implement user profiles.
+2. Difficulty Levels: We intend to add difficulty levels, making the game suitable for a wider range of players, from beginners to seasoned musicians.
 
-3. Difficulty Levels: We intend to add difficulty levels, making the game suitable for a wider range of players, from beginners to seasoned musicians.
+3. Backtracks: We're planning to add backing tracks to provide a more immersive rhythmic experience.
 
-4. Multiplayer Mode: We're exploring the possibility of a multiplayer mode, where players can compete in real-time.
-
-5. Backtracks: We're planning to add backing tracks to provide a more immersive rhythmic experience.
-
-6. Custom Beat Patterns: A feature to create and share your own beat patterns is on the roadmap.
+4. Custom Beat Patterns: A feature to create and share your own beat patterns is on the roadmap.
 
 ## Contributing
 We warmly welcome contributions. If you'd like to contribute, please fork the repository and make your changes. When you're ready, submit a pull request.
