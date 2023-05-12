@@ -7,7 +7,7 @@ Beat Master is an interactive rhythm game built with JavaScript and HTML5 Canvas
 Clone the repository to your local machine.
 
 ```bash
-git clone https://github.com/yourusername/beatmaster.git
+git clone https://github.com/hutchpd/SimpleDrummingGame.git
 cd beatmaster
 ```
 
