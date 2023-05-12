@@ -9,6 +9,7 @@ Clone the repository to your local machine.
 ```bash
 git clone https://github.com/yourusername/beatmaster.git
 cd beatmaster
+```bash
 
 Open the index.html file in your browser to start the game.
 
